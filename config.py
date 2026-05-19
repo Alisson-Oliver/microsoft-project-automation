@@ -15,9 +15,6 @@ BUSCA_RECURSIVA = True
 PROJECT_VISIVEL = False
 
 COLUNAS = [
-    ('Grupo_de_recursos', 'ResourceGroup'),
-    ('OP', 'Text21'),
-    ('ÁREA_KPE', 'Text4'),
     ('Nome', 'Name'),
     ('Porcentagem_trabalho_concluído', 'PercentWorkComplete'),
     ('Trabalho', 'Work'),
