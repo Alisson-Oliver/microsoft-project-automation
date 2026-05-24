@@ -30,7 +30,7 @@ O fluxo principal do projeto é:
 
 ## Dependências
 
-Instale os pacotes listados em [requeriments.txt](requeriments.txt).
+Instale os pacotes listados em [requirements.txt](requirements.txt).
 
 ## Instalação
 
@@ -44,7 +44,7 @@ python -m venv .venv
 2. Instale as dependências:
 
 ```bash
-pip install -r requeriments.txt
+pip install -r requirements.txt
 ```
 
 3. Ajuste as pastas e colunas em `config.py` ou pela interface gráfica.
@@ -111,7 +111,7 @@ microsoft-project-automation/
 ├── buscar_arquivos.py
 ├── copiar_arquivos.py
 ├── exportar_xlsx.py
-├── requeriments.txt
+├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
